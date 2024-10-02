@@ -5875,11 +5875,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Seguridad/Servicios.api.Seguridad.csproj",
+      "projectUniqueName": "/Users/tomasdziurdzia/Desktop/Microservices/Servicios.api.Seguridad/Servicios.api.Seguridad.csproj",
       "projectName": "Servicios.api.Seguridad",
-      "projectPath": "/Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Seguridad/Servicios.api.Seguridad.csproj",
+      "projectPath": "/Users/tomasdziurdzia/Desktop/Microservices/Servicios.api.Seguridad/Servicios.api.Seguridad.csproj",
       "packagesPath": "/Users/tomasdziurdzia/.nuget/packages/",
-      "outputPath": "/Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Seguridad/obj/",
+      "outputPath": "/Users/tomasdziurdzia/Desktop/Microservices/Servicios.api.Seguridad/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tomasdziurdzia/.nuget/NuGet/NuGet.Config"

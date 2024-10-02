@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c1YkLHfqSLs2oTAYDPXVzxAlgv38ketL9eAS2o/oHlXr4nSk3LkZJbKSF6JrTOAEFxCHeP6J0S6TmsAjr5FXKQ==",
+  "dgSpecHash": "RCBpXtsDMS4+oovrxAT06ppO7z/JchODsbEQmWOu3NRb7D9ElWnY4ItLibsS7+9yk7/clLq5mgfWUIt8SP68xQ==",
   "success": true,
-  "projectFilePath": "/Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Seguridad/Servicios.api.Seguridad.csproj",
+  "projectFilePath": "/Users/tomasdziurdzia/Desktop/Microservices/Servicios.api.Seguridad/Servicios.api.Seguridad.csproj",
   "expectedPackageFiles": [
     "/Users/tomasdziurdzia/.nuget/packages/automapper/10.1.0/automapper.10.1.0.nupkg.sha512",
     "/Users/tomasdziurdzia/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.0/automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

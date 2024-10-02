@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Gateway/Servicios.api.Gateway.csproj": {}
+    "/Users/tomasdziurdzia/Desktop/Microservices/Servicios.api.Gateway/Servicios.api.Gateway.csproj": {}
   },
   "projects": {
-    "/Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Gateway/Servicios.api.Gateway.csproj": {
+    "/Users/tomasdziurdzia/Desktop/Microservices/Servicios.api.Gateway/Servicios.api.Gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Gateway/Servicios.api.Gateway.csproj",
+        "projectUniqueName": "/Users/tomasdziurdzia/Desktop/Microservices/Servicios.api.Gateway/Servicios.api.Gateway.csproj",
         "projectName": "Servicios.api.Gateway",
-        "projectPath": "/Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Gateway/Servicios.api.Gateway.csproj",
+        "projectPath": "/Users/tomasdziurdzia/Desktop/Microservices/Servicios.api.Gateway/Servicios.api.Gateway.csproj",
         "packagesPath": "/Users/tomasdziurdzia/.nuget/packages/",
-        "outputPath": "/Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Gateway/obj/",
+        "outputPath": "/Users/tomasdziurdzia/Desktop/Microservices/Servicios.api.Gateway/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tomasdziurdzia/.nuget/NuGet/NuGet.Config"

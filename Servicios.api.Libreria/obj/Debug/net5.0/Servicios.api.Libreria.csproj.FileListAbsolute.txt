@@ -79,3 +79,4 @@ C:/MicroserviceVaxi/Microservices/Servicios.api.Libreria/obj/Debug/net5.0/ref/Se
 /Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Libreria/obj/Debug/net5.0/Servicios.api.Libreria.pdb
 /Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Libreria/obj/Debug/net5.0/Servicios.api.Libreria.genruntimeconfig.cache
 /Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Libreria/obj/Debug/net5.0/ref/Servicios.api.Libreria.dll
+/Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Libreria/obj/Debug/net5.0/Servicios.api.Libreria.sourcelink.json

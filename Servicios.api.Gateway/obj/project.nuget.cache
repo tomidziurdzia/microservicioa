@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5hmcpBfPNCix79nByR/33ivIT+dnR/jni4I8laZVsTVl68G/cfJMQjhTF2HQ0ivDaBkES+/Ur7CqqRGzs4an0w==",
+  "dgSpecHash": "7LWLTQkwzbRh+nDjKhz/lU9cHqwxL/ZtpbiYks9V9kHKkYU5SwLYw/rKXBFTDzedSwpOW1bZ9XCG4tcEmOlRtw==",
   "success": true,
-  "projectFilePath": "/Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Gateway/Servicios.api.Gateway.csproj",
+  "projectFilePath": "/Users/tomasdziurdzia/Desktop/Microservices/Servicios.api.Gateway/Servicios.api.Gateway.csproj",
   "expectedPackageFiles": [
     "/Users/tomasdziurdzia/.nuget/packages/fluentvalidation/8.6.2/fluentvalidation.8.6.2.nupkg.sha512",
     "/Users/tomasdziurdzia/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/5.0.0/microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",

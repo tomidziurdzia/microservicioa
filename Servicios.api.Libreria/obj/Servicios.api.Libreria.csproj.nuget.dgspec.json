@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Libreria/Servicios.api.Libreria.csproj": {}
+    "/Users/tomasdziurdzia/Desktop/Microservices/Servicios.api.Libreria/Servicios.api.Libreria.csproj": {}
   },
   "projects": {
-    "/Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Libreria/Servicios.api.Libreria.csproj": {
+    "/Users/tomasdziurdzia/Desktop/Microservices/Servicios.api.Libreria/Servicios.api.Libreria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Libreria/Servicios.api.Libreria.csproj",
+        "projectUniqueName": "/Users/tomasdziurdzia/Desktop/Microservices/Servicios.api.Libreria/Servicios.api.Libreria.csproj",
         "projectName": "Servicios.api.Libreria",
-        "projectPath": "/Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Libreria/Servicios.api.Libreria.csproj",
+        "projectPath": "/Users/tomasdziurdzia/Desktop/Microservices/Servicios.api.Libreria/Servicios.api.Libreria.csproj",
         "packagesPath": "/Users/tomasdziurdzia/.nuget/packages/",
-        "outputPath": "/Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Libreria/obj/",
+        "outputPath": "/Users/tomasdziurdzia/Desktop/Microservices/Servicios.api.Libreria/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tomasdziurdzia/.nuget/NuGet/NuGet.Config"

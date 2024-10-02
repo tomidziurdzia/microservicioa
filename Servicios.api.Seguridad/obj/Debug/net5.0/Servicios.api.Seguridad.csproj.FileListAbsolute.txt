@@ -123,3 +123,4 @@ C:/MicroserviceVaxi/Microservices/Servicios.api.Seguridad/obj/Debug/net5.0/Servi
 /Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Seguridad/obj/Debug/net5.0/Servicios.api.Seguridad.pdb
 /Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Seguridad/obj/Debug/net5.0/Servicios.api.Seguridad.genruntimeconfig.cache
 /Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Seguridad/obj/Debug/net5.0/ref/Servicios.api.Seguridad.dll
+/Users/tomasdziurdzia/Downloads/Microservices/Servicios.api.Seguridad/obj/Debug/net5.0/Servicios.api.Seguridad.sourcelink.json
